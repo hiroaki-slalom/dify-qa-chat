@@ -1,0 +1,10 @@
+meta: { version: 1, language: ja }
+questions:
+  - { qid: "Q1", text: "現状を一言で言うと？" }
+  - { qid: "Q2", text: "最も困っている意思決定するケースを1つ具体的に？" }
+  - { qid: "Q3", text: "その意思決定をする上で使っている材料は？" }
+  - { qid: "Q4", text: "理想状態は？3ヶ月後に何が変わればOK？" }
+  - { qid: "Q5", text: "他に重要な前提や制約は？" }
+stop_rules:
+  - condition: "Q1..Q5 すべて質問済"
+    reason: "全問完了"
