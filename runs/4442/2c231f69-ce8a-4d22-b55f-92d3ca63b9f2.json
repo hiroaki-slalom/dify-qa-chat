@@ -1,1 +1,1 @@
-{"answers": {"name": "John Doe", "age": "__NONE__"}, "conf": {"name": 1.0, "age": 1.0}, "history": [{"a": "こんにちは。", "ts": 1758103528}], "last_target": null}
+{"answers": {"name": "John Doe", "age": "__NONE__"}, "conf": {"name": 1.0, "age": 1.0}, "history": [{"a": "こんにちは。", "ts": 1758103528}, {"a": "検査結果の判定に時間がかかって、検査の数をこなせない。", "ts": 1758103552}], "last_target": null}
