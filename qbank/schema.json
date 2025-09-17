@@ -1,0 +1,10 @@
+{
+  "slots":[
+    {"id":"problem","prompt":"現状を一言で？","required":true},
+    {"id":"case","prompt":"最も困る意思決定は？","required":true},
+    {"id":"inputs","prompt":"判断材料は？"},
+    {"id":"ideal","prompt":"3ヶ月後の理想は？","required":true},
+    {"id":"constraints","prompt":"前提・制約は？"}
+  ],
+  "threshold": 0.7
+}
