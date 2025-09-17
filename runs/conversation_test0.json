@@ -1,1 +1,1 @@
-{"current_qid": "Q2", "current_question": "最も困っている意思決定するケースを1つ具体的に", "asked_qids": ["Q2", "Q1"], "session_id": "f54268c4-7853-4c47-8213-36141d716b5e", "answers": {"Q1": "hi!"}, "history": [{"qid": "Q1", "q": "現状を一言で言うと？", "a": "hi!", "ts": 1758084436}]}
+{"current_qid": "Q2", "current_question": "最も困っている意思決定するケースを1つ具体的に", "asked_qids": ["Q1", "Q2"], "session_id": "4a352ef2-231c-483b-8a28-ff5c78b9693f", "answers": {"Q1": "２つのウェハマップがあるときに、判断に迷う。。"}, "history": [{"qid": "Q1", "q": "現状を一言で言うと？", "a": "２つのウェハマップがあるときに、判断に迷う。。", "ts": 1758084464}]}
