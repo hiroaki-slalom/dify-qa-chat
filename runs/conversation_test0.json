@@ -1,1 +1,1 @@
-{"current_qid": "Q2", "current_question": "最も困っている意思決定するケースを1つ具体的に", "asked_qids": ["Q2", "Q1"], "session_id": "4c2dba67-2d35-4c95-808c-851d4727ec32", "answers": {"Q1": "hi!"}, "history": [{"qid": "Q1", "q": "現状を一言で言うと？", "a": "hi!", "ts": 1758084487}]}
+{"current_qid": "Q2", "current_question": "最も困っている意思決定するケースを1つ具体的に", "asked_qids": ["Q2", "Q1"], "session_id": "9e5bfbef-1196-4803-b004-7b1be4502192", "answers": {"Q1": "こまってる"}, "history": [{"qid": "Q1", "q": "現状を一言で言うと？", "a": "こまってる", "ts": 1758084632}]}
