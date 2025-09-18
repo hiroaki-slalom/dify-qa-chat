@@ -1,1 +1,1 @@
-{"answers": {"experience": "5 years", "skills": "__NONE__"}, "conf": {"experience": 0.95, "skills": 1.0}, "history": [{"a": "記入しました", "ts": 1758167020}], "last_target": "current_project"}
+{"answers": {"experience": "5 years", "skills": "__NONE__", "name": "John Doe", "age": "30"}, "conf": {"experience": 0.95, "skills": 1.0, "name": 1.0, "age": 1.0}, "history": [{"a": "記入しました", "ts": 1758167020}, {"a": "需要予測がうまくいかない", "ts": 1758167035}], "last_target": "current_project"}
