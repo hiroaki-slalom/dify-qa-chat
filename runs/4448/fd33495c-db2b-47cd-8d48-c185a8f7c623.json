@@ -1,1 +1,1 @@
-{"version": "2", "answers": {}, "progress": {"required_total": 0, "required_done": 0, "completed": false}, "turn": 1, "last_target": "problem", "schema": {"required_slots": [], "threshold": 0.7}}
+{"version": "2", "answers": {"problem": {"value": "工場の検査工程に費やす時間の増大、不良発見率の低下", "status": "value", "conf": 0.9, "turn": 2, "ts": 1758270804}}, "progress": {"required_total": 0, "required_done": 0, "completed": false}, "turn": 2, "last_target": "problem", "schema": {"required_slots": [], "threshold": 0.7}}
