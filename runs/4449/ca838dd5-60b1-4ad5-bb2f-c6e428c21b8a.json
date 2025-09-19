@@ -1,1 +1,1 @@
-{"answers": {}, "conf": {}, "status": {}, "history": [{"a": "こんにちは。", "ts": 1758273818}], "last_target": "problem"}
+{"answers": {"problem": "工場の検査工程で異常検知がうまくいってない"}, "conf": {"problem": 0.9}, "status": {"problem": "value"}, "history": [{"a": "こんにちは。", "ts": 1758273818}, {"a": "工場の検査工程で異常検知がうまくいってない", "ts": 1758273838}], "last_target": "problem"}
